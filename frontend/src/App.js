@@ -60,11 +60,16 @@ function App() {
           </button>
           <ul className="categories">
             <li>
-              <Link to="/category/Pants">Pants</Link>
+              <Link to="/category/Insecticide">Insecticide</Link>
             </li>
-
             <li>
-              <Link to="/category/Shirts">Shirts</Link>
+              <Link to="/category/Pesticide">Pesticide</Link>
+            </li>
+            <li>
+              <Link to="/category/Fertilizer">Fertilizer</Link>
+            </li>
+            <li>
+              <Link to="/category/Instruments">Fertilizer</Link>
             </li>
           </ul>
         </aside>
