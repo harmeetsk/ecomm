@@ -66,7 +66,7 @@ function App() {
               <Link to="/category/Pesticide">Pesticide</Link>
             </li>
             <li>
-              <Link to="/category/Fertilizer">Fertilizer</Link>
+              <Link to="/category/Instrument">Instrument</Link>
             </li>
             <li>
               <Link to="/category/Instruments">Fertilizer</Link>
