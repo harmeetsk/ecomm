@@ -31,7 +31,7 @@ function App() {
         <header className="header">
           <div className="brand">
             <button onClick={openMenu}>&#9776;</button>
-            <Link to="/">amazona</Link>
+            <Link to="/">FarmKart</Link>
           </div>
           <div className="header-links">
             <a href="cart.html">Cart</a>
@@ -63,13 +63,10 @@ function App() {
               <Link to="/category/Insecticide">Insecticide</Link>
             </li>
             <li>
-              <Link to="/category/Pesticide">Pesticide</Link>
+              <Link to="/category/Instruments">Instruments</Link>
             </li>
             <li>
-              <Link to="/category/Instrument">Instrument</Link>
-            </li>
-            <li>
-              <Link to="/category/Instruments">Fertilizer</Link>
+              <Link to="/category/Fertilizers">Fertilizers</Link>
             </li>
           </ul>
         </aside>
